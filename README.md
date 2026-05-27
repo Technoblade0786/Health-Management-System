@@ -26,12 +26,6 @@ A full-stack Hospital Management System built using Django.
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here later)
-
----
-
 ## ⚙️ Installation
 
 Clone the repository:
