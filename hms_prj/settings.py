@@ -52,7 +52,7 @@ INSTALLED_APPS = [
     'doctor',
     'patient',
 
-    'anymail',
+    
 
 ]
 
