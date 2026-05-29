@@ -2,6 +2,13 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
 ### Django ###
+.venv/
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+env/
+.venv/
 *.log
 *.pot
 *.pyc
